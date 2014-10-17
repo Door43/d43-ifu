@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ifu:home|Door43 (ifu)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ifu|d43-ifu repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ifu/archive/master.zip|d43-ifu.zip]]
+
+**Recent Changes**
+{{changes>ns = ifu}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ifu|Ethnologue data]]
+
